@@ -7,6 +7,8 @@ import Typography from "@material-ui/core/Typography";
 const useStyles = makeStyles((theme) => ({
   appBar: {
     backgroundColor: "#fff",
+    textAlign: "center",
+    justifyContent: "center"
   },
 }));
 
